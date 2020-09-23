@@ -1,1 +1,1 @@
-J'ai fait une todolist avec html,css,javascript,Wordpress. J'ai utiliser jquery pour faire un Dom et de l'animation. Et utiliser Ajax et api rest pour faire une sauvegarde de mes taches , pouvoir les modifier et  pouvoir les supprimer.
+J'ai fait une todolist avec html,css,javascript et Wordpress. J'ai utiliser jquery pour faire un Dom et de l'animation. Et utiliser Ajax et api rest pour faire une sauvegarde de mes taches , pouvoir les modifier et  pouvoir les supprimer.
