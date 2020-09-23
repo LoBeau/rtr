@@ -1,1 +1,1 @@
-# rtr
+J'ai fait une todolist avec html,css,javascript. J'ai utiliser jquery pour faire un Dom et de l'animation. Et utiliser Ajax et api rest pour faire sauvegarder mes taches , les modifier et les supprimer.
